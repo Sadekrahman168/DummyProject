@@ -340,7 +340,7 @@ curl -u root:password -X GET --header 'Accept: application/json' 'http://localho
 
 ## Support
 
-[![Support] Reach out to me at one of the following places!
+[![Support]Reach out to me at one of the following places!
 
 ## License
 
