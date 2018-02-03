@@ -12,9 +12,7 @@
 - [Support](#Support)
 - [License](#license)
 
-## Features
-
-<a name="Features"/>
+## Features <a name="Features"/>
 This application Supports Following Features:
 * Create, Read, Update, Delete City ( Entity )
 * Accepts a number, N, and returns a JSON array with the first N Fibonacci numbers
@@ -37,8 +35,8 @@ This application Supports Following Features:
 * JaCoCo
 * JDK 1.8+
 
-## Setup and Installation.
-[![Setup and Installation]
+## Setup and Installation. <a name="Setup-and-Installation"/>
+
 ### Clone
 
 - Clone this repo to your local machine using :  https://github.com/Sadekrahman168/DummyProject
