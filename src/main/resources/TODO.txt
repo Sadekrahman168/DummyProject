@@ -1,0 +1,9 @@
+
+Content Negotiation
+Uniform Response
+Aspect
+Security
+Unit Test.
+Handle Exception on Every Layer.
+versioning on POM
+
