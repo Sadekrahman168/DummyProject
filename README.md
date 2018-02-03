@@ -4,10 +4,12 @@
 
 ## Table of Contents
 
-- [Features](#installation)
-- [Setup and Installation](#features)
-- [API Documentation](#contributing)
-- [FAQ](#faq)
+- [Features](##Features)
+- [Technology Stack](##Technology Stack)
+- [Setup and Installation](#Setup and Installation)
+- [API Documentation](##API Documentation)
+- [FAQ](##FAQ)
+- [Support](#Support)
 - [License](#license)
 
 ## Features
