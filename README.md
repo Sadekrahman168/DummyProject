@@ -5,9 +5,9 @@
 ## Table of Contents
 
 - [Features](#Features)
-- [Technology Stack](#Technology Stack)
-- [Setup and Installation](#Setup and Installation)
-- [API Documentation](#API Documentation)
+- [Technology Stack](#Technology-Stack)
+- [Setup and Installation](#Setup-and-Installation)
+- [API Documentation](#API-Documentation)
 - [FAQ](#FAQ)
 - [Support](#Support)
 - [License](#license)
