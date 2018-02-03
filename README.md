@@ -28,9 +28,7 @@ This application Supports Following Features:
 * Content Negotiation : User can request for either json or xml response.
 * A Complete UI to test all API
 
-## Technology Stack
-
-<a name="Technology-Stack"/>
+## Technology Stack <a name="Technology-Stack"/>
 * Spring
 * Spring Boot
 * HSQL
@@ -43,7 +41,7 @@ This application Supports Following Features:
 [![Setup and Installation]
 ### Clone
 
-- Clone this repo to your local machine using :  
+- Clone this repo to your local machine using :  https://github.com/Sadekrahman168/DummyProject
 
 ### Setup
 
