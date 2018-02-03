@@ -73,6 +73,7 @@ Right click : Run as Spring Boot App
 > The best way to test the API is through the swagger UI, click the Link below :
 
 <a href="http://localhost:8080/DummyApp/swagger-ui.html">Api Testing Page</a>
+
 ![Screenshot application list](/Photos/1.png?raw=true)
 
 > When propmted for authetication provide
@@ -88,11 +89,13 @@ password : password
 
 - Scroll Down to see the results.
 ```
+![Screenshot application list](/Photos/1-1.png?raw=true)
 
 You can also try it with CURL
 ```shell
 curl -u root:password -X GET --header 'Accept: application/json' 'http://localhost:8080/DummyApp/hello/'
 ```
+
 ### Testing REQ [ 2 ] : Testing unique words and thier counts / frequencies.
 ```shell
 - On the UI hover over and click  REQ [ 2 ] Frequency processing API and
@@ -105,6 +108,8 @@ curl -u root:password -X GET --header 'Accept: application/json' 'http://localho
 
 - Scroll Down to see the results.
 ```
+
+![Screenshot application list](/Photos/2-1.png?raw=true)
 
 You can also try it with CURL
 
@@ -125,6 +130,8 @@ curl -u root:password -X POST --header 'Accept: application/json' -d 'Test' 'htt
 - Scroll Down to see the results.
 ```
 
+![Screenshot application list](/Photos/3-1.png?raw=true)
+
 You can also try it with CURL
 ```shell
 curl -u root:password  -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' 'http://localhost:8080/DummyApp/number/fibonacci/3'
@@ -139,6 +146,8 @@ curl -u root:password  -X POST --header 'Content-Type: application/json' --heade
 - Scroll Down to see the results.
 ```
 
+![Screenshot application list](/Photos/4-1.png?raw=true)
+
 You can also try it with CURL
 
 ```shell
@@ -151,6 +160,8 @@ curl -u root:password -X GET --header 'Accept: application/json' 'http://localho
 ```
 
 Here we have 5 different APIs
+
+![Screenshot application list](/Photos/5-1.png?raw=true)
 
 * `GET city/` : Get All the Cities
 
@@ -165,6 +176,8 @@ after then click on `Try it out!`
 Scroll Down to see the results.
 
 ```
+![Screenshot application list](/Photos/5-2.png?raw=true)
+
 You can also try it with CURL
 
 ```shell
@@ -184,6 +197,8 @@ Click on `POST /city` , On city text Box supply your json as below
 }
 ```
 >  after then click on `Try it out!`, Scroll Down to see the results.
+
+![Screenshot application list](/Photos/5-3.png?raw=true)
 
 With CURL :
 
@@ -212,6 +227,9 @@ Click on `PUT /city` , On dto text Box supply your json as below
 ```
 >  after then click on `Try it out!`, Scroll Down to see the results.
 
+![Screenshot application list](/Photos/5-4.png?raw=true)
+
+
 With CURL :
 
 ```shell
@@ -228,6 +246,9 @@ curl -u root:password -X PUT --header 'Content-Type: application/json' --header 
 * `DELETE city/{id}` : Delete an existing city .
 Click on `DELETE /city/{id}`, on the id text box supply city id
 >  after then click on `Try it out!`, Scroll Down to see the results.
+
+![Screenshot application list](/Photos/5-5.png?raw=true)
+
 With CURL :
 
 ```shell
@@ -238,6 +259,8 @@ curl -u root:password -X DELETE --header 'Accept: application/json' 'http://loca
 * `GET city/{id}` : Get all cities by name.
 Click on `GET /city/{name}`.  On name text Box supply your city name (e.g KC) to query
 >  after then click on `Try it out!`, Scroll Down to see the results.
+
+![Screenshot application list](/Photos/5-6.png?raw=true)
 
 With CURL :
 
@@ -254,11 +277,25 @@ curl -u root:password -X GET --header 'Accept: application/json' 'http://localho
 ```
 We have Three different APIs
 
+![Screenshot application list](/Photos/6-1.png?raw=true)
+
+
 `externaldata/` : Get All the POST
+
+![Screenshot application list](/Photos/6-2.png?raw=true)
+
 
 `externaldata/post/{id}` : Get a POST using ID
 
+
+![Screenshot application list](/Photos/6-3.png?raw=true)
+
+
 `externaldata/post/{userid}` : Get All posts for an individual userid.
+
+
+![Screenshot application list](/Photos/6-4.png?raw=true)
+
 
 To test any of the API mentioned above :
 ```shell
@@ -268,6 +305,8 @@ To test any of the API mentioned above :
 
 - Scroll Down to see the results.
 ```
+![Screenshot application list](/Photos/6-2.png?raw=true)
+
 `You can also try it with CURL`
 
 ```shell
