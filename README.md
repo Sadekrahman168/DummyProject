@@ -28,7 +28,7 @@ This application Supports Following Features:
 * A Complete UI to test all API
 
 ## Technology Stack
-[![Technology Stack]
+[![Technology-Stack]
 * Spring
 * Spring Boot
 * HSQL
@@ -71,7 +71,7 @@ Right click : Run as Spring Boot App
 `If Everything goes well, Application will be running on port 8080` and applcation root context will be : <a href="http://localhost:8080/DummyApp/">App</a>
 
 ## API Documentation
-[![API Documentation]
+[![API-Documentation]
 > The best way to test the API is through the swagger UI, click the Link below :
 
 <a href="http://localhost:8080/DummyApp/swagger-ui.html">Api Testing Page</a>
