@@ -13,7 +13,7 @@
 - [License](#license)
 
 ## Features
-[![Features]
+
 <a name="Features"/>
 This application Supports Following Features:
 * Create, Read, Update, Delete City ( Entity )
@@ -29,7 +29,8 @@ This application Supports Following Features:
 * A Complete UI to test all API
 
 ## Technology Stack
-[![Technology-Stack]
+
+<a name="Technology-Stack"/>
 * Spring
 * Spring Boot
 * HSQL
@@ -72,7 +73,8 @@ Right click : Run as Spring Boot App
 `If Everything goes well, Application will be running on port 8080` and applcation root context will be : <a href="http://localhost:8080/DummyApp/">App</a>
 
 ## API Documentation
-[![API-Documentation]
+
+<a name="API-Documentation"/>
 > The best way to test the API is through the swagger UI, click the Link below :
 
 <a href="http://localhost:8080/DummyApp/swagger-ui.html">Api Testing Page</a>
@@ -322,7 +324,7 @@ curl -u root:password -X GET --header 'Accept: application/json' 'http://localho
 > Sadek Rahman
 
 ## FAQ
-[![FAQ]
+<a name="FAQ"/>
 - **Where do find the code coverage Reort**
     - /target/jacoco-ut/index.html
 
@@ -341,11 +343,11 @@ curl -u root:password -X GET --header 'Accept: application/json' 'http://localho
 
 ## Support
 
-[![Support]Reach out to me at one of the following places!
+<a name="Support"/>Reach out to me at one of the following places!
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+<a name="license"/>(http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © 
