@@ -73,6 +73,7 @@ Right click : Run as Spring Boot App
 > The best way to test the API is through the swagger UI, click the Link below :
 
 <a href="http://localhost:8080/DummyApp/swagger-ui.html">Api Testing Page</a>
+![Screenshot application list](/Photos/1.png?raw=true)
 
 > When propmted for authetication provide
 ```shell
