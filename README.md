@@ -333,9 +333,9 @@ curl -u root:password -X GET --header 'Accept: application/json' 'http://localho
     curl -u root:password -X GET --header 'Accept: application/xml' 'http://localhost:8081/DummyApp/hello/'
     ```
 
-
-
----
+- **How do we check for Health , Info etc of the Applicatio?**
+    - `Info`<a href="http://localhost:8080/DummyApp/info" />
+    - `Health`<a href="http://localhost:8080/DummyApp/health" />
 
 ## Support
 
