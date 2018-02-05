@@ -147,7 +147,7 @@ curl -u root:password  -X POST --header 'Content-Type: application/json' --heade
 - Scroll Down to see the results.
 ```
 
-> `Wait 15 Seconds or more to see the result.`
+> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Wait 15 Seconds or more to see the result.`
 
 
 ![Screenshot application list](/Photos/4-1.png?raw=true)
