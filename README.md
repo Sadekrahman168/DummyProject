@@ -147,6 +147,9 @@ curl -u root:password  -X POST --header 'Content-Type: application/json' --heade
 - Scroll Down to see the results.
 ```
 
+> `Wait 15 Seconds or more to see the result.`
+
+
 ![Screenshot application list](/Photos/4-1.png?raw=true)
 
 You can also try it with CURL
